@@ -77,3 +77,10 @@ The change is visual only and does not affect gameplay.
 🇫🇷  
 Ce projet est distribué sous une licence personnalisée.  
 La revente est strictement interdite sans autorisation de l’auteur Shadow Walker.
+
+################################################################################################
+################################################################################################
+################################################################################################
+
+
+<img width="1349" height="1065" alt="Capture d&#39;écran 2026-01-17 192902" src="https://github.com/user-attachments/assets/7f3addc3-4a5f-4f65-a98c-3a49ef0eec36" />
