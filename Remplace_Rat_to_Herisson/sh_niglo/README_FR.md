@@ -1,0 +1,38 @@
+# 🦔 FiveM – Remplacement du Ped "Rat" par un Hérisson
+
+## 📌 Description / Description
+🇫🇷  
+Cette ressource FiveM remplace le ped par défaut **"rat"** par un **hérisson**.  
+Le changement est uniquement visuel et n’affecte pas le gameplay.
+
+🇬🇧  
+This FiveM resource replaces the default **"rat"** ped with a **hedgehog**.  
+The change is visual only and does not affect gameplay.
+
+---
+
+## 🛠️ Fonctionnement / How It Works
+🇫🇷  
+- Remplacement du modèle du rat par un hérisson  
+- Aucun script côté serveur requis  
+- Léger et optimisé  
+- Compatible avec tous les serveurs FiveM  
+
+🇬🇧  
+- Replaces the rat model with a hedgehog  
+- No server-side script required  
+- Lightweight and optimized  
+- Compatible with all FiveM servers  
+
+---
+
+## 📂 Installation
+🇫🇷 / 🇬🇧  
+1. Télécharger ou cloner ce dépôt  
+2. Placer le dossier dans le répertoire `resources`  
+3. Ajouter dans le `server.cfg` :
+
+## 📜 Licence / License
+🇫🇷  
+Ce projet est distribué sous une licence personnalisée.  
+La revente est strictement interdite sans autorisation de l’auteur Shadow Walker.
